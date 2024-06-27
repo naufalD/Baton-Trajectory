@@ -23,6 +23,7 @@ private:
     Plot* m_plotPE;
     Baton* m_baton;
     QElapsedTimer m_timer;
+    int m_idTimer;
 
 };
 #endif // MAINWINDOW_H

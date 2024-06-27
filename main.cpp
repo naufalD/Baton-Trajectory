@@ -4,6 +4,7 @@
 #include <QwtLegend>
 #include <QwtPlotGrid>
 
+
 int main(int argc, char *argv[])
 {
     double mass {1};
