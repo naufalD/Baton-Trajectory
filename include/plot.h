@@ -1,8 +1,6 @@
 #ifndef PLOT_H
 #define PLOT_H
 
-#include "baton.h"
-
 #include <QwtPlot>
 #include <QElapsedTimer>
 #include <QwtPlotCurve>
