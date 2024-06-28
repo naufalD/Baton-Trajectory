@@ -1,4 +1,4 @@
-#include "baton.h"
+#include "include/baton.h"
 #include <cmath>
 
 #define _USE_MATH_DEFINES

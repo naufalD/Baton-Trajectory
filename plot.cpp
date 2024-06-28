@@ -1,4 +1,4 @@
-#include "plot.h"
+#include "include/plot.h"
 
 #include <QwtPlotCurve>
 #include <QwtPlot>

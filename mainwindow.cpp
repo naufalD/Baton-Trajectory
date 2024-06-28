@@ -1,6 +1,6 @@
-#include "mainwindow.h"
-#include "plot.h"
-#include "baton.h"
+#include "include/mainwindow.h"
+#include "include/plot.h"
+#include "include/baton.h"
 
 #include <QwtLegend>
 #include <QwtPlotGrid>
