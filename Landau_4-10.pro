@@ -20,9 +20,9 @@ SOURCES += \
     plot.cpp
 
 HEADERS += \
-    baton.h \
-    mainwindow.h \
-    plot.h
+    include/baton.h \
+    include/mainwindow.h \
+    include/plot.h
 
 FORMS +=
 
